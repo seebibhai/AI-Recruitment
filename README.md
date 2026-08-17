@@ -462,3 +462,7 @@ This is a decision-support system, not an autonomous hiring system. Concretely, 
 - Calendar integration for interview scheduling (Google Calendar / Outlook) instead of a manual date field.
 - Automated email-rule engine (e.g. auto-suggest a shortlist email when status changes) — the data model and preview/send split already support this; only the trigger wiring is left.
 - WebSocket-based live progress for large resume batches instead of a single completion response.
+
+
+
+Live Pre View : https://ai-recruitment-smoky.vercel.app
